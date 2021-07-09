@@ -1,4 +1,3 @@
-//1st week inlab
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
